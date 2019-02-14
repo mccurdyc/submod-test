@@ -1,5 +1,5 @@
 package main
 
-func PrintB() string {
-	return "b"
+func PrintB(b string) string {
+	return b
 }
